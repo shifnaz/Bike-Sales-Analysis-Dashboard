@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/shifnaz/Bike-Sales-Analysis-Dashboard/blob/main/Bike-sales.jpeg" width="100%">
+</p>
 # Bike-Sales-Analysis-Dashboard
 
 ## Project Overview
